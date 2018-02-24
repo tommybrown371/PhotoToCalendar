@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "calendarfromphoto",
+  "private_key_id": "f7c226d166836006afae146cd3cae2624363e5da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC5H0yHg7iV8aUH\nCKEybJrhKN8/ZvgzGSd+S9vSYCinGu52B8SaHMwoAnKot6iNE09Q67fU+3XykCLx\nqVaIzG5JlCEUuctVbx2BPZKHPpmUiWtpHMEFpNhIsBJkMDRkLVoRaqK73aVxJ849\n+JbGfWKBn4LFr1LMre5gGmJfLGws1xVTLfJ2W5IyJqMF/O8U7w3ap3q2NGqUEqby\nN2id8M1F4VvZqk+1olgT9E/Gdj2BaW1G9V93HFVnHpAnT4Kjnmiut/95wEorRQhd\nZ5OUQZlhiIOnlx+S/4Oi16wkLia9gZ4quPQ7vMQUHlGPtMsVC2nQPypjO3ZSuj4o\nyTh+CRk7AgMBAAECgf8h+AYXMJebUZgFanR1+Khum8uL+KMX4TmU/crZcGHa+ao8\ndL4yxp+DOx5N9NnMcOsSZK10fJaLdWysJIyg6ppUSXroPYhX7e4c3AdRN9bMTz6S\n0fm5ArUn/Fevwr7gscZYXP2hURdBlxbdvJmy3Pp8MgY2z/DPmdDNLKKQAKnMMQ76\nZJ+aVGOwqYdqwTvi3FUOf4g2LIbCo5bPxjesYL72WK6lb1HbYp2ErzFj/eu5mtsl\ni6w/0EmJr3reEjDVm9GjtXX1IyfZZq5WmzrtD29/z/PnWX/cPH7To0EVv0wrBqo6\nlwGdFl/dK8tOldgSO8AbJU/yr75GDWVWFZuxS0ECgYEA7zHOHHYvahutqS3rAf6q\nYcXD+a5oKIQRZ6rZSRn8NkOGOy9suNRDWETlnPgCSkGAdPD7QgJ614nGUqoG40gI\nGX/S2Jz/L65Wy7YhwECcIG2/4t1s2tj8/3Sr/PEpj37effvyTObLvyXGZo/kAZrS\ntdLtUS/lGHHiRzUD4ps6r0kCgYEAxiDwsKQNwKlVJbr1so502CE1Jg628PIkuaAM\n2ZAdLoMRlH/llsa9WUk8XXR+jHualr1b4whGHJo0m5Rbt4SssPYEibGXL5gpl0AN\n5aN+TNPaBt0ZnSonq+BWwCiyKEfF8yatL65T/TlsKCs8jWu/WZf2hvHEgKPk73mT\na4yM0GMCgYBtnuK58oQKWgL9nNiuQlstkegdvotnvhcH7qnEMc9/wvR6nWJzVnxC\nsNiWVqceBuTrMyHDf8VykGa+rcOYWAO2Q/mKYnElFf4bQC45oKKszf955kakCXvx\nSzQjKRcF93vaOyQxkDhiMtq5WEqDXcQhpjgy1ANnb5HnVmmgacm8WQKBgQCVpK2G\nDPKiMIMyMyp9yWDxGOvGqdh81bbtSLhL3rBbv/0YNx1WKxc6h7kDMQif3H+fGLh9\nGnOyCLpxQ7WeP6QbKEW3Jh31gazwIx4b8sdjCaOkCXzeGsfJ5nA/RL2C9OrKwsyN\ntdKT8LoDAN0ER3xIFCHMPHDZZHB2e1HgKlD01wKBgByHx4Zy5fxjd4Gh5JKE+rwK\nlLAtlOcmfAa//52HgZnYi2li8KSEreIN4rya6Rh5BQmefbbu4m864F1/17e8FJwz\nnfbAn3Uqxer5lqkfmMIJoo1DPgZ/Uq2SHEJElHM7F7Wh14nIgDrjQTdb9euYkIop\n+tWPvXOxewtCpHQX9vfQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "addcalendarevents@calendarfromphoto.iam.gserviceaccount.com",
+  "client_id": "110361166605933171810",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/addcalendarevents%40calendarfromphoto.iam.gserviceaccount.com"
+}
